@@ -34,7 +34,7 @@ git --version
 
 3. Clone the repository
 
-git clone https://github.com/nickdev-cloud/CustomerHub
+git clone https://github.com/nickdev-cloud/CustomersHub
 
 4. Install NPM Packages - FrontEnd
 
